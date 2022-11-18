@@ -6,6 +6,10 @@ My name is Jehros A Rina, 38 years old, from Cebu city. I took up Bachelors of S
 
 I used to play basketball as one of my favorite hobbies. However, these past 3 months, I diverted my attention into writing a programming codes. In fact, I was able to create a basic portfolio using HTML and CSS. I also studied javascript and watch video tutorials prior joing the bootcamp just to make sure that I could keep up the learning pace. I could say now, that writing a code is my hobby.
 
+//MY GOAL FOR THIS YEAR//
+
+MY goal for this year, is to be able to learn all the programming fundamentals and master the skills for web development.
+
 //REASON WHY YOU WANT TO BE A WEB DEVELOPER//
 
 Web developer is my dream job. I want to become a  web developer so I can land a job in the IT industry and I earn well. On top of that, Once I've already mastered the skills, I would love to empower those aspirant people whom want to dive in this Tech environment to share my knowledge so their lives may change too. 
