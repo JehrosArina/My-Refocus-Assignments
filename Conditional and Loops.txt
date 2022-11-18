@@ -1,0 +1,78 @@
+TASK 1: Pulse Oximeter Reading part 1
+
+let runningpulse = prompt("Information of the running pulse:?");
+let bloodcount = 96;
+
+function pulseAlertOximeter(start, end){    
+    
+    for( let i = start; i <= end; i++ ){     
+           
+    if( i >= 95) {
+      console.log('Normal reading');
+      console.log(' The “SpO2” reading  is:' + (i) +'%');
+    break;     
+        
+    } else if((i >94) && ( i< 96)) {
+        console.log('Accepteable to continue home monitoring.');
+        console.log(' The “SpO2” reading is:' + (i) +'%');
+        
+    break;
+        
+    } else if ((i < 95) && (i > 92)){
+        console.log('Seek advice from health professionals.');
+        console.log(' The “SpO2” reading is:' + (i) +'%');
+
+    break;
+        
+    }else if ( i <93){
+       
+        console.log('Seek urgent medical advice.');
+        console.log(' The “SpO2” reading is really low:' + (i) +'%');
+    break;
+    }  
+    } 
+}
+     pulseAlertOximeter(runningpulse, bloodcount);
+
+
+    
+
+================================================================
+
+
+ TASK 1: Pulse Oximeter Reading part 2
+
+
+
+var tempBeatPerMinute = prompt("Enter a number Pulse:");
+var tempPulseRate  = 131;
+
+function pulseOximeterReading( BetPerMinuteStart, BetPerMinuteEnds){
+ 
+for (let i =  BetPerMinuteStart; i <= BetPerMinuteEnds; i++){
+
+    if((i >39) && (i <101)){
+        console.log('Normal reading');
+        console.log('The Beat per minute is:' + (i) + 'is within the range of 40-100')
+    break;
+} else if((i >100) && (i <110)){
+        console.log('Acceptable to continue home monitoring ');
+        console.log('The Beat per minute is:' + (i) + 'is within the range of 101-109')
+    break;
+} else if((i >109) && (i <131)){
+        console.log('Seek advice from health Profissionals.');
+        console.log('The Beat per minute is:' + (i) + 'is within the range of 110-130')
+    break;
+        
+}else if( i> 130) {
+        console.log('Seek urge medical advice.');
+        console.log('The Beat per minute is:' + (i) + 'is within 131 and Very High!')
+    break;
+    }
+}
+}
+        
+pulseOximeterReading(tempBeatPerMinute, tempPulseRate); 
+
+    
+    

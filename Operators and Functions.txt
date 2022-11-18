@@ -1,0 +1,69 @@
+//Celcius to Kelvin 
+
+
+var kelvinValue = 273.15;
+var celcius =2;
+
+function celciustoKevin(kvalue , cvalue){
+
+    return kvalue + cvalue;
+}
+
+var kelvin = celciustoKevin(kelvinValue, celcius);
+console.log("Celcius to Kelvin:" + kelvin);
+
+
+OUTPUT: Celcius to Kelvin:274.15
+
+=========================================================
+
+// Farehnheit to Kelvin
+
+
+var kelvinValue = 273.15;
+var tempfarenheit = 2;
+var farehnheit = ((tempfarenheit-32) /1.8);
+
+function farehToKevin(farnvalue, kelvalue){
+  return farnvalue + kelvalue;
+   
+}
+
+kelvin = farehToKevin(farehnheit, kelvinValue);
+console.log('Farehnheit to kelvin is:' + kelvin);
+
+OUTPUT: Farehnheit to kelvin is:256.4833333333333
+
+
+==============================================================
+
+TIP CALCULATOR;
+
+var billamount = parseInt(prompt("Enter the amount of food: / Tips is 10%"));
+var temptips = parseInt(10);
+var value = billamount + temptips;
+
+function computeTip(amount, tips){
+
+var totalbillamount = amount * (tips / 100);
+ return totalbillamount;
+
+}
+
+var billamount = parseInt(prompt("Enter the amount of food: / Tips is 10%"));
+var temptips = 10;
+
+function computeTip(amount, tips){
+
+var totalbillamount = amount * (tips / 100);
+ return totalbillamount;
+
+}
+
+var totaltip = computeTip(billamount , temptips);
+console.log('The total tip is:' +''+ totaltip+ '' + ' and the total cost of the food:' + billamount);
+console.log('The total amount to paid is:' + parseInt(billamount  + temptips));
+
+OUTPUT: The total tip is:10 and the total cost of the food:100
+
+OUTPUT: The total amount to paid is:110

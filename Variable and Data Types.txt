@@ -1,0 +1,34 @@
+M1.Unit1 Develop a web page in javascript
+
+1. TASK: CALORIES TRACKING APP
+
+let samCynMinPerDay = 0.5;
+let samCynTotalperday= 0.5 *2;
+let totaldaysSanRuns = 15;
+let calper30minutes = 225; 
+
+totalcal = samCynTotalperday * totaldaysSanRuns * calper30minutes;
+console.log('Great work, Sam! After' + samcycperday + 'running every day for a week' + '' + 'you may lose a total calories:' + totalcal);
+
+
+// OUTPUT: Great work, Sam! After0.5running every day for a weekyou may lose a total calories:3375
+
+
+==================================================================================================================
+
+2. SAVING APP
+
+// Will display the remaining percentage
+
+let goalSaving = prompt("How much do you want to save money?");     //Enter a value of the desire money to be saved
+let hadsavealready = prompt("How much you have already saved?");    //Enter a value of the money that already had been saved
+let percent = ( goalSaving - hadsavealready) /goalSaving * 100;
+
+console.log('Thank you for your decipline and hardwork, Sam!' + 'You are now:' + percent + '%' + '' + 'away from your goal of saving:' + 'P' + goalSaving);
+
+
+// OUTOUT: Thank you for your decipline and hardwork, Sam!You are now:25% away from your goal of saving:P10000
+
+
+-----------------------------------------------------------------
+
