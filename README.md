@@ -1,6 +1,6 @@
 //TELL ME ABOUT YOURSELF//
 
-My name is Jehros A Rina, 38 years old, from Cebu city. I took up Bachelors of Science in Infonrmation Technology and I graduated in 2010 from the University of Cebu. I was a formner Customer service representative from a Telecommunition account at Qualfon and Sykes. I'd been in the BPO industry for 6 years. My jobs are handling business related conserns. I handled Billing concerns and Service issues. I was able to enhance my cretical thingking beccause most of the time, I was often on a complex situations that I need to make a quick decision making to provide solutions and options to our customers in regards with their problems. 
+My name is Jehros A Rina, 38 years old, from Cebu city. I took up Bachelors of Science in Infonrmation Technology and I graduated in 2010 from the University of Cebu. I was a formner Customer service representative from a Telecommunition account at Qualfon and Sykes. I'd been in the BPO industry for 6 years. My jobs are handling business related concerns. I handled Billing concerns and Service issues. I was able to enhance my cretical thingking beccause most of the time, I was often on a complex situations that I need to make a quick decision making to provide solutions and options to our customers in regards with their problems. 
 
 //MY HOBBIES//
 
