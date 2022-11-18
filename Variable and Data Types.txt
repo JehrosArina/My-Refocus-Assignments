@@ -30,5 +30,3 @@ console.log('Thank you for your decipline and hardwork, Sam!' + 'You are now:' +
 // OUTOUT: Thank you for your decipline and hardwork, Sam!You are now:25% away from your goal of saving:P10000
 
 
------------------------------------------------------------------
-
