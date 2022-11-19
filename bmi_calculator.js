@@ -1,17 +1,16 @@
 
 
-let kiloGram = prompt('Your weight in Klg');
-let heightlength = prompt('Your height in Cm');
-
-
+let kiloGram = 55;
+let heightlnCM= 163;
 
 function compute(k, h){
     let convert = h / 100;
-    let total = (k /convert);
-    return finalresult = total / convert;
+    let result = (k /convert);
+    let finalresult = result / convert;
+    return finalresult
 }
 
 
 
-    let totalBMI = compute(kiloGram, heightlength);
+    let totalBMI = compute(kiloGram, heightlnCM);
 console.log(` Your BMI results: ${totalBMI}`);
