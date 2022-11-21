@@ -12,5 +12,5 @@ MY goal for this year, is to be able to learn all the programming fundamentals a
 
 //REASON WHY YOU WANT TO BE A WEB DEVELOPER//
 
-Web developer is my dream job. I want to become a  web developer so I can land a job in the IT industry and I earn well. On top of that, Once I've already mastered the skills, I would love to empower those aspirant people whom want to dive in this Tech environment to share my knowledge so their lives may change too. 
+Web developer is my dream job. I want to become a  web developer so I can land a job in the IT industry and I earn well. On top of that, Once I've already mastered the skills, I would love to empower those aspirant people whom want to dive in this Tech environment so I share my knowledge so their lives may change too. 
 
