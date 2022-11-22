@@ -76,7 +76,6 @@ export function sort(type) {
     newsList.sort();
   } else {
     //Write your code here for sorting (descending)
-
     // Added codes
     newsList.reverse();
   }

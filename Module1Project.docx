@@ -6,7 +6,7 @@
 //3. You can udpdate the values inside the *newsList variable if you want but do not change the variable name
 //4. Happy coding :)
 
-//newsList is the variable that holds an array of strings
+//newsList is the variable that holds an array of strings  
 export var newsList = [
   "What films should an aspiring journalist watch?",
   "Buried underpants and tea bags help scientists evaluate soil",

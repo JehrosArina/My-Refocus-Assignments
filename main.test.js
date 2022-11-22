@@ -29,6 +29,5 @@ test('Test descending sort', () => {
    "Decoder: Armenia in a bind as Ukraine war resets global order",
    "Buried underpants and tea bags help scientists evaluate soil",
    "'Nightmare' TV show 'Euphoria — health threat or high art?",
-    
 ]);
 });
