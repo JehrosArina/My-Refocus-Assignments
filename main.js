@@ -80,8 +80,5 @@ export function sort(type) {
     // Added codes
     newsList.reverse();
   }
-
   return newsList;
 }
-
-
