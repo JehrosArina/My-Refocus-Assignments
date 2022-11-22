@@ -70,9 +70,6 @@ export function search() {
 }
 
 
-
-
-
 export function sort(type) {
   if (type == "ascending") {
     //Write your code here for sorting (ascending)
