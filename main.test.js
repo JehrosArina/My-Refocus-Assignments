@@ -6,7 +6,6 @@ test("Search 'Night', outputs 'Nightmare' TV show 'Euphoria - health threat or h
 
 });
 
-
 test('Test ascending sort', () => {
   expect(sort("ascending")).toEqual([
   "'Nightmare' TV show 'Euphoria — health threat or high art?",

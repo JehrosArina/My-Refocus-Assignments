@@ -62,8 +62,6 @@ export function search() {
           alert('NO MATCH FOUND!');
           alert('LIST SUGGESTED ARTICLES:' + newsList);
           break;
-            
-
     }
    }
   return newsList;
